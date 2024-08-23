@@ -1,7 +1,5 @@
 # LAN-Chat-Server
-simple chat server for LAN
-# Chat-Server
-A Chat server that will have a brodcast massage and a brocast file transfer
+simple chat server for LAN, The Chat server will brodcast massage to all client
 ---
 ## How it work
 
